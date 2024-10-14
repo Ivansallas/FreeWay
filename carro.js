@@ -8,7 +8,7 @@ let velocidadeCarro1 = 2;
 //carro 2
 let xCarro2 = 600;
 let yCarro2 = 96;
-let velocidadeCarro2 = 2.5;
+let velocidadeCarro2 = 5.5;
 
 //carro 3
 let xCarro3 = 600;
