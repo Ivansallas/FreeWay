@@ -59,9 +59,3 @@ function pontosMaiorQueZero(){
 function podeSeMover(){
   return yAtor < 366;
 }
-
-
-
-
-
-
