@@ -22,7 +22,7 @@ function voltaPosicaoInicialDoCarro() {
     if (passouTodaATela(xCarros[i])) {
       xCarros[i] = 600;
       //BONUS PARA APLICAÇÃO
-      //velocidadeCarros[i] = Math.random() * (10 - 1) + 1;  // Nova velocidade aleatória entre 1 e 5
+      velocidadeCarros[i] = Math.random() * (10 - 1) + 1;  // Nova velocidade aleatória entre 1 e 5
     }
   }
 }
